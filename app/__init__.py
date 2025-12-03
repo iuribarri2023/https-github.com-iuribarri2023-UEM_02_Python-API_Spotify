@@ -22,9 +22,9 @@ def create_app():
         return (
             "<!doctype html>"
             "<html lang='en'>"
-            "<head><meta charset='utf-8'><title>API Euskera</title></head>"
+            "<head><meta charset='utf-8'><title>API Clon Spotify</title></head>"
             "<body style='font-family: Arial, sans-serif; max-width: 720px; margin: 40px auto;'>"
-            "<h1>API de M\u00fasica en Euskera</h1>"
+            "<h1>API Clon de Spotify</h1>"
             "<p>Estado: <strong>OK</strong></p>"
             "<ul>"
             "<li><a href='/docs'>Swagger / OpenAPI UI</a></li>"
